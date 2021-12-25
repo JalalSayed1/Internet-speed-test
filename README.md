@@ -1,2 +1,7 @@
 # Internet-speed-test
-Calculate the internet download and upload speed.
+## About the project:
+
+## How to run:
+
+## What did I learn from this:
+
