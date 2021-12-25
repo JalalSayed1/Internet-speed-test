@@ -1,7 +1,7 @@
 # Internet-speed-test
 ## About the project:
+- Find out your upload and download internet speed.
 
 ## How to run:
-
-## What did I learn from this:
+`python internet_speed_test.py`
 
